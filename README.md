@@ -14,10 +14,30 @@ Community-driven updates and comprehensive documentation support continuous impr
 
 **How to clone te repo**
 
+
 git clone https://github.com/Iankulani/Accurate-Online-OS-Demo.git
 
 cd Accurate-Online-OS-Demo
 
 **How to run**
 
+
+
 python3 Accurate-Online-OS-Demo.py
+
+
+<img width="1808" height="1014" alt="Screenshot (1113)" src="https://github.com/user-attachments/assets/c3ba2661-e7d3-46b4-9d65-42b93f61e3fb" />
+
+
+**Telegram Configration**
+
+help
+
+config telegram token 
+
+config trelegram chat_id 
+
+<img width="583" height="905" alt="Screenshot (1108)" src="https://github.com/user-attachments/assets/1d0e8951-b8c5-443b-b08b-4981267cd7b0" />
+
+
+
