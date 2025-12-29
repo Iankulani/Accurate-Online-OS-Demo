@@ -12,20 +12,18 @@ Built with privacy and auditability in mind, Accurate-Online-OS-Demo emphasizes 
 Ideal for demonstrations, training, and controlled assessments, it streamlines common security tasks while maintaining strict access controls and clear operational logs. 
 Community-driven updates and comprehensive documentation support continuous improvement and adoption.
 
-**How to clone te repo**
-
+## How to clone te repo**
+```bash
 
 git clone https://github.com/Iankulani/Accurate-Online-OS-Demo.git
 
 cd Accurate-Online-OS-Demo
+```
 
-**How to run**
-
-
-
+## How to run
+```bash
 python3 Accurate-Online-OS-Demo.py
-
-
+```
 <img width="1808" height="1014" alt="Screenshot (1113)" src="https://github.com/user-attachments/assets/c3ba2661-e7d3-46b4-9d65-42b93f61e3fb" />
 
 
